@@ -24,7 +24,9 @@ npm install
 npm start
 
 ### API Endpoints
+
 GET /api/cells: List all cell IDs.
+
 GET /api/cells/<id>: Get data for a specific cell ID.
 
 
