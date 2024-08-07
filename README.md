@@ -1,5 +1,3 @@
-# Two-fold-Dashboard-ML
-
 # My Dashboard Project
 
 ## Setup Instructions
